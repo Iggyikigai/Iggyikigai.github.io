@@ -11,9 +11,9 @@ My Gen Z journey to achieving Ikigai in this cruel world.
     <header>
         <h1>Iggy Ikigai</h1>
         <nav>
-            <a href = "http://www.gmail.com">One</a>
-            <a href = "http://www.facebook.com">Two</a>
-            <a href = "http://www.google.com">Three</a>
+            <a href = "http://www.gmail.com">GMail</a>
+            <a href = "http://www.facebook.com">Facebook</a>
+            <a href = "http://www.google.com">Google</a>
             <a href = "http://www.github.com/Iggyikigai">Github</a><br>
     </nav>
     </header>
