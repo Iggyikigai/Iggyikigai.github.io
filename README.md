@@ -5,13 +5,12 @@ My Gen-Z journey to achieving Ikigai in this cruel world.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Final Project</title>
 </head>
 <body>
     <header>
         <h1>Iggy Ikigai</h1>
         <nav>
-            <a href = "http://www.gmail.com">GMail</a>
+            <a href = "http://www.gmail.com/12ignatiustang@gmail.com">G-Mail</a>
             <a href = "http://www.facebook.com">Facebook</a>
             <a href = "http://www.google.com">Google</a>
             <a href = "http://www.github.com/Iggyikigai">Github</a><br>
