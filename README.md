@@ -12,7 +12,6 @@ My Gen-Z journey to achieving Ikigai in this cruel world.
         <nav>
             <a href = "http://www.twitter.com/Iggythq">Twitter</a>
             <a href = "https://www.linkedin.com/in/ignatius-tang-5babb91bb/">Linkedin</a>
-            <a href = "http://www.google.com">Google</a>
             <a href = "http://www.github.com/Iggyikigai">Github</a><br>
     </nav>
     </header>
