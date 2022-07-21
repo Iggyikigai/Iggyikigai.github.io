@@ -11,7 +11,7 @@ My Gen-Z journey to achieving Ikigai in this cruel world.
         <h1>Iggy Ikigai</h1>
         <nav>
             <a href = "http://www.twitter.com/Iggythq">Twitter</a>
-            <a href = "http://www.facebook.com">Facebook</a>
+            <a href = "https://www.linkedin.com/in/ignatius-tang-5babb91bb/">Linkedin</a>
             <a href = "http://www.google.com">Google</a>
             <a href = "http://www.github.com/Iggyikigai">Github</a><br>
     </nav>
