@@ -42,8 +42,8 @@ My Gen-Z journey to achieving Ikigai in this cruel world.
         </details>
     </section>
     <footer>
-        <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
-        This page was created by Iggy &amp; Colleen van Lent.
+        <img src="https://user-images.githubusercontent.com/108253087/180155249-d4cf5b4f-cc22-40c6-98d5-f11589c3f4af.jpg" alt="Logo">
+        This page was created by Iggy.
         To learn more about web design, visit
         <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
     </footer>
